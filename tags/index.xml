@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Insights.HighDeals</title>
-    <link>https://highdeals.github.io/insights/tags/</link>
+    <link>https://insights.highdeals.net/tags/</link>
     <description>Recent content in Tags on Insights.HighDeals</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>HighDeals</copyright><atom:link href="https://highdeals.github.io/insights/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>HighDeals</copyright>
+    <lastBuildDate>Sat, 25 Oct 2025 21:43:39 +0300</lastBuildDate><atom:link href="https://insights.highdeals.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

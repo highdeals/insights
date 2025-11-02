@@ -1,1 +1,3 @@
 This is where it all begins...
+
+[**insights.highdeals.net**](https://insights.highdeals.net)
