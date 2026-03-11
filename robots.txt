@@ -31,7 +31,6 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Disallow: /*?q=
-Disallow: /*?s=
+Disallow: /*?
 
 Sitemap: https://insights.highdeals.net/sitemap.xml
